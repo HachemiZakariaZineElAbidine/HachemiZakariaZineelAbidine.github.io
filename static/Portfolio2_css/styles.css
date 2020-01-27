@@ -167,7 +167,7 @@ b.max-bold{ font-weight: 700; }
 --------------------------------- */
 
 /* COUNTER SECTION */
-.about-section{ background: #333333; }
+.about-section{ background: #333333; padding: 100px 0 50px; border-bottom: 1px solid #ddd0;}
 .counter{ position: relative; }
 	
 .counter .title{ color: #CBC5C1; text-align: right; margin-right: 130px; }
@@ -195,7 +195,7 @@ b.max-bold{ font-weight: 700; }
 6. PORFOLIO SECTION
 --------------------------------- */
 
-.portfolio-section{ position: relative; background-color: #333333;}
+.portfolio-section{ position: relative; background-color: #333333; padding: 100px 0 50px; border-bottom: 1px solid #ddd0;}
 
 .portfolio-section .portfolioFilter{ margin-bottom: 60px; color: #666; }
 
@@ -214,7 +214,7 @@ b.max-bold{ font-weight: 700; }
 /* ---------------------------------
 7. EDUCATION SECTION
 --------------------------------- */
-.education-section{background-color: #333333;}
+.education-section{background-color: #333333; padding: 100px 0 50px; border-bottom: 1px solid #ddd0;}
 .education-wrapper{ position: relative; overflow: hidden; text-align: center; }
 
 .education-wrapper:after{ content:''; position: absolute; top: 8px; bottom: 0; left: 50%;
@@ -296,3 +296,4 @@ b.max-bold{ font-weight: 700; }
 
 .copyright{ text-align: center; padding: 30px 0; background: #28023D; }
 
+.contact-section{background-color: #333333;}
